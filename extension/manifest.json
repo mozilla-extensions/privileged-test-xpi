@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Test Add-on",
+  "version": "2.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "test@tests.mozilla.org"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "privileged",
+  "version": "2.0",
+  "scripts": {
+    "build": "web-ext build -s extension/ --overwrite-dest --filename=privileged.xpi"
+  },
+  "dependencies": {
+    "web-ext": "7.11.0"
+  }
+}
