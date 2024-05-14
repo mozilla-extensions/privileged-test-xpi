@@ -1,6 +1,6 @@
 {
   "name": "privileged",
-  "version": "3.0",
+  "version": "4.0",
   "scripts": {
     "build": "web-ext build -s extension/ --overwrite-dest --filename=privileged.xpi"
   },
