@@ -16,7 +16,7 @@ tasks:
           xpiSigningType: "privileged"
           # The below doesn't need changing on initial repo setup
           template:
-              repo: https://github.com/mozilla-extensions/xpi-template
+              repo: https://github.com/willdurand/xpi-template
               branch: main
           trustDomain: xpi
       in:
