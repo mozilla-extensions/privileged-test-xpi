@@ -5,6 +5,6 @@
     "build": "web-ext build -s extension/ --overwrite-dest --filename=privileged.xpi"
   },
   "dependencies": {
-    "web-ext": "7.11.0"
+    "web-ext": "8.3.0"
   }
 }
